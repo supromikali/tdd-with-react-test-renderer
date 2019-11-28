@@ -1,5 +1,5 @@
 # tdd-with-react-test-renderer
-Examples of testing React components with React Test Renderer
+Examples of testing React components with React Test Renderer for the article https://blog.logrocket.com/tdd-with-react-test-renderer/
 
 ### Local testing
 
